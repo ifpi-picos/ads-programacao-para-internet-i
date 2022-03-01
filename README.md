@@ -78,7 +78,7 @@ Além do Web Dev Book e da MDN, em toda aula será disponibilizados outros mater
 
 Este material está licenciado com uma Licença [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).
 
-Este conteúdo foi criado e é mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Se precisar falar comigo, você pode me encontrar nos links abaixo:
+Conteúdo criado e mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Se precisar falar comigo, você pode me encontrar nos links abaixo:
 
 * Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
 * Github: [https://github.com/jesielviana](https://github.com/jesielviana)
