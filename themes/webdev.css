@@ -1,0 +1,18 @@
+/* @theme webdev */
+
+@import 'gaia';
+
+section{
+  background-color: #eee;
+  background-image: url('https://github.com/ifpi-picos.png');
+  background-repeat: no-repeat;
+  background-position: 101% 2%;
+  background-size: 100px 100px;
+}
+
+section::before{
+  content: '@jesielviana';
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
