@@ -3,6 +3,15 @@
 
 Este material faz parte da disciplina de Programação para Internet I do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí (IFPI) Campus Picos.
 
+
+
+## Agenda 
+| Aula | Data      | Assunto                         | Material                                          |
+| ---- | --------- | ------------------------------- | ------------------------------------------------- |
+| 1    | 7/03/2022 | Apresentação do plano de ensino | [slides](slides/1-programacao-para-internet-i.md) |
+
+
+
 ## Visão geral
 
 Este curso apresenta os conceitos fundamentais da Web e como utilizar suas tecnologias básicas (HTML, CSS e Javascript) para criação de aplicativos. No decorrer do curso o aluno vai ver como os conceitos fundamentais das tecnologias web podem ser aplicados para desenvolver software da Web real. 
@@ -27,7 +36,7 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 * Noções de comandos básicos do terminal Linux/Windows/Mac;
 * Noções básicas de redes de computadores.
 
-## Conteúdo do Curso
+## Ementa
 
 1. Introdução aos conceitos de Internet e Web;
 2. Linguagem de marcação para Web - HTML;
@@ -61,6 +70,6 @@ Não existe um livro didático obrigatório para este curso, e não conheço um 
 ## Prof. Jesiel Viana
 Este material foi criado e mantido pelo professor Jesiel Viana, fale comigo pelos contatos abaixo.
 
-* Twitter: [**https://twitter.com/jesielviana**](https://twitter.com/jesielviana)****
-* Github: [**https://github.com/jesielviana**](https://github.com/jesielviana)****
-* Blog:  [**https://www.jesielviana.com/**](https://www.jesielviana.com)****
+* Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
+* Github: [https://github.com/jesielviana](https://github.com/jesielviana)
+* Blog:  [https://jesielviana.com](https://www.jesielviana.com)
