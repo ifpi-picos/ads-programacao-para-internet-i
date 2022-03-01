@@ -67,8 +67,13 @@ Não existe um livro didático obrigatório para este curso, e não conheço um 
 
 ---
 
-## Prof. Jesiel Viana
-Este material foi criado e mantido pelo professor Jesiel Viana, fale comigo pelos contatos abaixo.
+### Gostaria contribuir ou utilizar este material no seu curso?
+
+Este material foi criado e é mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Caso queira contribuir com este material, basta abrir um PR que ficarei feliz em analisar 😃. 
+
+Fique a vontade para utilizar este conteúdo no seu curso, dê os créditos, por favor 😍.
+
+Caso queira falar comigo, você pode me encontrar nos links abaixo:
 
 * Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
 * Github: [https://github.com/jesielviana](https://github.com/jesielviana)
