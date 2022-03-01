@@ -56,9 +56,13 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 * [**Git**](https://git-scm.com) - é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
 * [**Github**](https://github.com) - é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git.
 
-## Material para estudos (Referências)
+## Bibliografia
 
-Não existe um livro didático obrigatório para este curso, e não conheço um livro que seja uma combinação perfeita com o material para um curso de Web. O conteúdo do curso é definido pelo conteúdo programático e suas respectivas aulas. Em toda aula será informado o material base de referência e outros materiais extras. Você precisará de material de referência adicional para concluir os projetos de programação, mas esse material está disponível na Web. Uma boa fonte online para documentação de referência em HTML, CSS e DOM é a [**Mozilla Developer Network - MDN**](https://developer.mozilla.org/pt-BR/).
+Não existe um livro didático obrigatório para este curso, e não conheço um livro que seja uma combinação perfeita com o material para um curso de Web. 
+
+O conteúdo do curso é definido pelo conteúdo programático e suas respectivas aulas. Em toda aula será informado o material base de referência e outros materiais complementares. 
+
+Você precisará de material de referência adicional para concluir os projetos de programação, mas esse material está disponível na Web. Uma boa fonte online para documentação de referência sobre HTTP, HTML, CSS e Javascript é a [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/).
 
 * Referência base (português)
   * [https://developer.mozilla.org/pt-BR/](https://developer.mozilla.org/pt-BR)
