@@ -67,7 +67,7 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 
 ## Bibliografia
 
-Neste curso será utilizado dois recursos como bibliografia base: o eBook [Web Dev Book](https://webdev.jesielviana.com), disponível gratuitamente online e o portal da [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/), que disponibiliza uma documentação atualizada das tecnologias web.
+Neste curso será utilizado dois recursos como bibliografia base: o eBook [Web Dev Book](https://webdev.jesielviana.com), disponível gratuitamente online e o portal da [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/), que uma das principais referências como documentação da web.
 
 Além do Web Dev Book e da MDN, em toda aula será disponibilizados outros materiais complementares (vídeos, posts, tutoriais, documentações, etc). 
 
