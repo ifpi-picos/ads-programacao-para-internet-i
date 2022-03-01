@@ -26,7 +26,7 @@ Capacitar o aluno a desenvolver e implementar paginas, sítios e portais com ut
 ---
 ## Ferramentas
 
-![ícone de tecnologias web]('../../images/tools.png')
+![ícone de tecnologias web]('../images/tools.png')
 
 
 ---
