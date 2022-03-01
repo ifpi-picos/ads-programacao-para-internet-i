@@ -78,8 +78,19 @@ Além do Web Dev Book e da MDN, em toda aula será disponibilizados outros mater
 
 Este material está licenciado sob a licença Creative Commons [CC BY-NC-SA 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).
 
-Conteúdo criado e mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Se precisar falar o autor, você pode encontrá-lo nos links abaixo:
+Sinta-se à vontade para usar este material em seu curso de desenvolvimento web, de acordo com a licença (uso não comercial).
 
+Se você usar este material no seu curso, por favor me avise!
+
+## Autor
+
+Este material é mantido por Jesiel Viana.
+
+Jesiel Viana é Mestre em Engenharia de Software pela Cesar School, Professor de Computação no Instituto Federal do Piauí - IFPI, Pesquisador Bolsista no IBICT. Possui mais de 10 anos de experiência em desenvolvimento de software na indústria e academia, também atuando com pesquisa e ensino na área de engenharia de software e Web. 
+
+É membro do [Alura Stars](https://www.alura.com.br/stars) desde 2021. Também é um [Github Campus Advisor](https://education.github.com/teachers/advisors) e possui a certificação [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/b53a6b6d-baae-4fa3-88d6-1550d33e1e0a/public_url)
+
+* Linkedin: [https://linkedin.com/in/jesielviana](https://linkedin.com/in/jesielviana])
 * Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
 * Github: [https://github.com/jesielviana](https://github.com/jesielviana)
 * Blog:  [https://jesielviana.com](https://www.jesielviana.com)
