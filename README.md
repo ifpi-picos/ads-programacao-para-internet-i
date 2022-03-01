@@ -12,6 +12,7 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
   - [Ferramentas](#ferramentas)
   - [Bibliografia](#bibliografia)
   - [Licença](#licença)
+  - [Autor](#autor)
 
 ## Agenda 
 | Aula | Data      | Assunto                         | Material                              |
