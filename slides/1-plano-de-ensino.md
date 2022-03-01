@@ -1,6 +1,7 @@
 ---
 marp: true
 paginate: true
+_paginate: false
 theme: webdev
 class: lead
 ---

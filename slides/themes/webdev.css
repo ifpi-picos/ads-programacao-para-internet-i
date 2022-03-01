@@ -10,9 +10,9 @@ section{
   background-size: 100px 100px;
 }
 
-section::before{
+/* section::before{
   content: '@jesielviana';
   position: absolute;
   bottom: 10px;
   left: 10px;
-}
+} */

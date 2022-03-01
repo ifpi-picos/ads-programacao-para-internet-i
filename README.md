@@ -1,14 +1,22 @@
-# Programação para Internet I - 2022.1
-
+# Programação para Internet I
 
 Este material faz parte da disciplina de Programação para Internet I do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do Instituto Federal do Piauí (IFPI) Campus Picos.
 
-
+**Sumário**
+- [Programação para Internet I](#programação-para-internet-i)
+  - [Agenda](#agenda)
+  - [Visão geral](#visão-geral)
+  - [Objetivos de Aprendizagem](#objetivos-de-aprendizagem)
+  - [Pré-Requisitos](#pré-requisitos)
+  - [Ementa](#ementa)
+  - [Ferramentas](#ferramentas)
+  - [Bibliografia](#bibliografia)
+  - [Contribuição](#contribuição)
 
 ## Agenda 
-| Aula | Data      | Assunto                         | Material                                          |
-| ---- | --------- | ------------------------------- | ------------------------------------------------- |
-| 1    | 7/03/2022 | Apresentação do plano de ensino | [slides](slides/1-programacao-para-internet-i.md) |
+| Aula | Data      | Assunto                         | Material                              |
+| ---- | --------- | ------------------------------- | ------------------------------------- |
+| 1    | 7/03/2022 | Apresentação do plano de ensino | [slides](slides/1-plano-de-ensino.md) |
 
 
 
@@ -51,27 +59,22 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 
 ## Ferramentas
 
-* [**Brave**](https://brave.com) - Brave é um navegador web livre e de código aberto, baseado no navegador web Chromium.
-* [**Visual Studio Code (VS Code)**](https://code.visualstudio.com) - é um editor de código/IDE altamente recomendado para desenvolvimento web. É gratuito, _open-source_ e está disponível para todos os principais sistemas operacionais. O VS Code oferece muitas extensões, e o melhor são fáceis de instalar e configurar. Recomendo a instalação do pacote de extensões [**Web Dev Extension Pack**](https://marketplace.visualstudio.com/items?itemName=jesielviana.web-dev-extension-pack)****
-* [**Git**](https://git-scm.com) - é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
-* [**Github**](https://github.com) - é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git.
+* [Brave](https://brave.com) - Brave é um navegador web livre e de código aberto, baseado no navegador web Chromium.
+* [Visual Studio Code (VS Code)](https://code.visualstudio.com) - é um editor de código/IDE altamente recomendado para desenvolvimento web. É gratuito, _open-source_ e está disponível para todos os principais sistemas operacionais. O VS Code oferece muitas extensões, e o melhor são fáceis de instalar e configurar. Recomendo a instalação do pacote de extensões [Web Dev Extension Pack](https://marketplace.visualstudio.com/items?itemName=jesielviana.web-dev-extension-pack)
+* [Git](https://git-scm.com) - é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
+* [Github](https://github.com) - é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git.
 
 ## Bibliografia
 
-Não existe um livro didático obrigatório para este curso, e não conheço um livro que seja uma combinação perfeita com o material para um curso de Web. 
+Neste curso será utilizado dois recursos como bibliografia base: o eBook [Web Dev Book](https://webdev.jesielviana.com), disponível gratuitamente online e o portal da [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/), que disponibiliza uma documentação atualizada das tecnologias web.
 
-O conteúdo do curso é definido pelo conteúdo programático e suas respectivas aulas. Em toda aula será informado o material base de referência e outros materiais complementares. 
-
-Você precisará de material de referência adicional para concluir os projetos de programação, mas esse material está disponível na Web. Uma boa fonte online para documentação de referência sobre HTTP, HTML, CSS e Javascript é a [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/).
-
-* Referência base (português)
-  * [https://developer.mozilla.org/pt-BR/](https://developer.mozilla.org/pt-BR)
-* Referência extra (inglês):
-  * [https://www.w3schools.com/](https://www.w3schools.com)
+Além do Web Dev Book e da MDN, em toda aula será disponibilizados outros materiais complementares (vídeos, posts, tutoriais, documentações, etc). 
 
 ---
 
-### Gostaria contribuir ou utilizar este material no seu curso?
+## Contribuição
+
+> Gostaria contribuir ou utilizar este material no seu curso?
 
 Este material foi criado e é mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Caso queira contribuir com este material, basta abrir um PR que ficarei feliz em analisar 😃. 
 
