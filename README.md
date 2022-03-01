@@ -11,7 +11,7 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
   - [Ementa](#ementa)
   - [Ferramentas](#ferramentas)
   - [Bibliografia](#bibliografia)
-  - [Contribuição](#contribuição)
+  - [Licença](#licença)
 
 ## Agenda 
 | Aula | Data      | Assunto                         | Material                              |
@@ -72,15 +72,13 @@ Além do Web Dev Book e da MDN, em toda aula será disponibilizados outros mater
 
 ---
 
-## Contribuição
+## Licença
 
-> Gostaria contribuir ou utilizar este material no seu curso?
+![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
-Este material foi criado e é mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Caso queira contribuir com este material, basta abrir um PR que ficarei feliz em analisar 😃. 
+Este material está licenciado com uma Licença [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR).
 
-Fique a vontade para utilizar este conteúdo no seu curso, dê os créditos, por favor 😍.
-
-Caso queira falar comigo, você pode me encontrar nos links abaixo:
+Este conteúdo foi criado e é mantido pelo prof. Jesiel Viana do IFPI Campus Picos. Se precisar falar comigo, você pode me encontrar nos links abaixo:
 
 * Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
 * Github: [https://github.com/jesielviana](https://github.com/jesielviana)
