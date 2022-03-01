@@ -86,7 +86,7 @@ Se você usar este material no seu curso, por favor me avise!
 
 Este material é mantido por Jesiel Viana.
 
-Jesiel Viana é Mestre em Engenharia de Software pela Cesar School, Professor de Computação no Instituto Federal do Piauí - IFPI, Pesquisador Bolsista no IBICT. Possui mais de 10 anos de experiência em desenvolvimento de software na indústria e academia, também atuando com pesquisa e ensino na área de engenharia de software e Web. 
+Jesiel Viana é Mestre em Engenharia de Software pela Cesar School, Professor de Computação no Instituto Federal do Piauí - IFPI e Pesquisador Bolsista no IBICT. Possui mais de 10 anos de experiência em desenvolvimento de software na indústria e academia, também atuando com pesquisa e ensino na área de engenharia de software e Web. 
 
 É membro do [Alura Stars](https://www.alura.com.br/stars) desde 2021. Também é um [Github Campus Advisor](https://education.github.com/teachers/advisors) e possui a certificação [Oracle Certified Professional, Java SE 6 Programmer](https://www.credly.com/badges/b53a6b6d-baae-4fa3-88d6-1550d33e1e0a/public_url)
 
