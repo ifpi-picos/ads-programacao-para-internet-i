@@ -67,7 +67,7 @@ No processo de aprendizado dessas tecnologias, você também vai:
 7. Páginas web dinâmicas com HTML, CSS e Javascript;
 8. Integração com APIs externas;
 9. Testes automatizados; e
-10. Hospedagem de páginas web na nuvem.
+10. Hospadagem de aplicações web na nuvem.
 
 ## Ferramentas 
 
