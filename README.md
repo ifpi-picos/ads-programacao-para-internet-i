@@ -58,7 +58,9 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 9. Testes automatizados; e
 10. Hospedagem de páginas web na nuvem.
 
-## Ferramentas utilizadas 
+## Ferramentas 
+
+Ferramentas utilizadas no curso para realização das atividades. Instale e configure-as no seu computador.
 
 * **Navegador web** - Qualquer navegador web moderno. Recomendo o [Brave](https://brave.com), [Firefox](https://www.mozilla.org/en-US/firefox/new/) ou [Chrome](https://www.google.com/chrome/)
 * **Editor de Código** - Recomendo o [Visual Studio Code (VS Code)](https://code.visualstudio.com), que é um editor de código/IDE altamente recomendado para desenvolvimento web. É gratuito, _open-source_ e está disponível para os principais sistemas operacionais. O VS Code oferece muitas extensões, e o melhor são fáceis de instalar e configurar. Recomendo a instalação do pacote de extensões [Web Dev Extension Pack](https://marketplace.visualstudio.com/items?itemName=jesielviana.web-dev-extension-pack)
