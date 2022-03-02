@@ -62,8 +62,8 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 
 * **Navegador web** - Qualquer navegador web moderno. Recomendo o [Brave](https://brave.com), [Firefox](https://www.mozilla.org/en-US/firefox/new/) ou [Chrome](https://www.google.com/chrome/)
 * **Editor de Código** - Recomendo o [Visual Studio Code (VS Code)](https://code.visualstudio.com), que é um editor de código/IDE altamente recomendado para desenvolvimento web. É gratuito, _open-source_ e está disponível para os principais sistemas operacionais. O VS Code oferece muitas extensões, e o melhor são fáceis de instalar e configurar. Recomendo a instalação do pacote de extensões [Web Dev Extension Pack](https://marketplace.visualstudio.com/items?itemName=jesielviana.web-dev-extension-pack)
-* **[Git](https://git-scm.com)** - é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
-* **[Github](https://github.com)** - é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git.
+* **[Git](https://git-scm.com)** - sistema open-source de controle de versão, sendo o mais utilizado pelos desenvolvedores atualmente.
+* **[Github](https://github.com)** - plataforma de hospedagem de código (repositórios Git) para controle de versão e colaboração distribuída.
 
 ## Bibliografia
 
