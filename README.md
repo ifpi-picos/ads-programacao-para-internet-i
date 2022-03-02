@@ -62,7 +62,7 @@ Após concluir este curso, você compreenderá o funcionamento da Web e estará 
 
 Ferramentas utilizadas no curso para realização das atividades. Instale e configure-as no seu computador.
 
-* **Navegador web** - qualquer navegador web moderno. Recomendo o [Brave](https://brave.com), [Firefox](https://www.mozilla.org/en-US/firefox/new/) ou [Chrome](https://www.google.com/chrome/)
+* **Navegador web** - qualquer navegador web moderno ([Brave](https://brave.com), [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Chrome](https://www.google.com/chrome/), etc)
 * **Editor de Código** - [Visual Studio Code (VS Code)](https://code.visualstudio.com), que é um editor de código/IDE altamente recomendado para desenvolvimento web. É gratuito, _open-source_ e está disponível para os principais sistemas operacionais. O VS Code oferece muitas extensões, e o melhor são fáceis de instalar e configurar. Recomendo a instalação do pacote de extensões [Web Dev Extension Pack](https://marketplace.visualstudio.com/items?itemName=jesielviana.web-dev-extension-pack)
 * **Sistema de controle de versão** - [Git](https://git-scm.com), que é um sistema de controle de versão open-source amplamente utilizado por desenvolvedores.
 * **Plataforma Git na nuvem** - [GitHub](https://github.com), uma plataforma de hospedagem de código (repositórios Git) para controle de versão e colaboração distribuída. GitHub é a plataforma Git mais utilizada por desenvolvedores, principalmente para projetos open-source.
