@@ -15,14 +15,15 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
   - [Autor](#autor)
 
 ## Agenda 
-| Aula | Data       | Assunto                         | Material                                                                                                      |
-| ---- | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 1    | 7/03/2022  | Apresentação do plano de ensino | [slides](slides/1-plano-de-ensino.md)                                                                         |
-| 2    | 11/03/2022 | Introdução a Web                | [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md)                                           |
-| 3    | 11/03/2022 | HTML                            | [HTML](https://webdev.jesielviana.com/frontend/html)                                                          |
-| 4    | 15/03/2022 | CSS                             | [CSS](https://webdev.jesielviana.com/frontend/css)                                                            |
-| 5    | 18/03/2022 | Acompanhamento de aprendizagem  | [modelo](https://jesielviana.notion.site/eda3ff7e953342008e6c95e1f3418243?v=6ea07b215f694aa089b936be9ea4e504) |
-
+| Aula | Data       | Assunto                         | Material                                                                                                                                                                                                                           |
+| ---- | ---------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 7/03/2022  | Apresentação do plano de ensino | [slides](slides/1-plano-de-ensino.md)                                                                                                                                                                                              |
+| 2    | 11/03/2022 | Introdução a Web                | [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md)                                                                                                                                                                |
+| 3    | 15/03/2022 | HTML                            | [HTML](https://webdev.jesielviana.com/frontend/html)                                                                                                                                                                               |
+| 4    | 18/03/2022 | CSS                             | [CSS](https://webdev.jesielviana.com/frontend/css)                                                                                                                                                                                 |
+| 5    | 21/03/2022 | HTML semântico  e CSS           | [HTML semântico](https://webdev.jesielviana.com/frontend/html#elementos-semanticos), [flexbox](https://origamid.com/projetos/flexbox-guia-completo/), [CSS grid](https://www.origamid.com/projetos/css-grid-layout-guia-completo/) |
+| 6    | 25/03/2022 | Acompanhamento de aprendizagem  | [modelo](https://jesielviana.notion.site/eda3ff7e953342008e6c95e1f3418243?v=6ea07b215f694aa089b936be9ea4e504)                                                                                                                      |
+| 7    | 28/03/2022 | Como a Web funciona             | [como a web funciona?](https://webdev.jesielviana.com/introducao/como-a-web-funciona)                                                                                                                                              |
 
 ## Objetivo do curso
 
