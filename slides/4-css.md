@@ -82,5 +82,4 @@ Crie uma página web com HTML e CSS conforme o layout seguinte
 
 ---
 ## @jesielviana
-![bg left opacity:.7](./images/eu.png)
 [jesielviana.com](jesielviana.com)

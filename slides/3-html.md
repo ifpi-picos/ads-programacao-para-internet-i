@@ -91,5 +91,4 @@ Crie uma página HTM usando elementos semânticos que contenha **topo, menu, con
 
 ---
 ## @jesielviana
-![bg left opacity:.7](./images/eu.png)
 [jesielviana.com](jesielviana.com)
