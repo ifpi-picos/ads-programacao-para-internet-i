@@ -1,6 +1,6 @@
 ## Atividade 2: Site Pessoal
 
-Cada aluno deve construir um site pessoal com informações sobre formação, cursos, experiência, projetos, objetivos, contatos, etc.
+Cada aluno deve construir um site pessoal com informações sobre formação, cursos, experiência, projetos, objetivos, contatos, etc. O site deve ser responsivo e atender as boas práticas do Lighthouse.
 
 ### Recursos open-source gratuitos
 - Paleta de cores: [Duo](https://duo.alexpate.uk/), [Happy Hues](https://www.happyhues.co/)
