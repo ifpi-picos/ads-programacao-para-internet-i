@@ -86,6 +86,8 @@ Ferramentas utilizadas no curso para realização das atividades. Instale e conf
 * **Sistema de controle de versão** - [Git](https://git-scm.com), que é um sistema de controle de versão open-source amplamente utilizado por desenvolvedores.
 * **Plataforma Git na nuvem** - [GitHub](https://github.com), uma plataforma de hospedagem de código (repositórios Git) para controle de versão e colaboração distribuída. GitHub é a plataforma Git mais utilizada por desenvolvedores, principalmente para projetos open-source.
 
+> Lista de ferramentas para desenvolvimento web: [O que deve ter na mala de ferramentas do desenvolvedor web?](https://jesielviana.com/blog/web-dev-tools)
+
 ## Bibliografia
 
 Neste curso será utilizado dois recursos como bibliografia base: o eBook [Web Dev Book](https://webdev.jesielviana.com), disponível gratuitamente online e o portal da [Mozilla Developer Network - MDN](https://developer.mozilla.org/pt-BR/), que é uma das principais referências como documentação da web.
