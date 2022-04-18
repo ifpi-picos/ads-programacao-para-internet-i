@@ -26,6 +26,9 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
 | 7    | 28/03/2022 | Git e Github                    | [slides](slides/5-git-github.md), [git e github](https://webdev.jesielviana.com/introducao/fluxo-de-trabalho#utilizando-o-git-e-github), [curso grátis](https://www.youtube.com/playlist?list=PLrakQQfctUYX37CRv3fomYfKwDe0NLmsk) |
 | 8    | 01/04/2022 | Acompanhamento da atividade 1   | -                                                                                                                                                                                                                                 |
 | 9    | 04/04/2022 | Como a Web funciona             | [como a web funciona?](https://webdev.jesielviana.com/introducao/como-a-web-funciona)                                                                                                                                             |
+| 10   | 11/04/2022 | Dinâmica sobre introdução a web | -                                                                                                                                                                                                                                 |
+| 11   | 18/04/2022 | Acompanhamento de aprendizagem  | -                                                                                                                                                                                                                                 |
+
 
 ## Objetivo do curso
 
