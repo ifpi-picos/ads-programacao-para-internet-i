@@ -33,7 +33,7 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
 | 14   | 09/05/2022 | Monitoria de projetos                | -                                                                                                                                                                                                                                 |
 | 14   | 13/05/2022 | Monitoria de projetos                | -                                                                                                                                                                                                                                 |
 | 14   | 16/05/2022 | Introdução à Javascript              | [Introdução à Javascript](https://webdev.jesielviana.com/frontend/javascript)                                                                                                                                                     |
-| 14   | 20/05/2022 | Páginas web dinâmicas com Javascript | [Páginas web dinâmicas com Javascript](https://webdev.jesielviana.com/frontend/paginas-web-dinamicas-com-javascript)                                                                                                              |
+| 14   | 20/05/2022 | Páginas web dinâmicas com Javascript | [Texto](https://webdev.jesielviana.com/frontend/paginas-web-dinamicas-com-javascript), [Videoaula](https://www.youtube.com/watch?v=T24q_2wuwDM)                                                    |
 
 
 ## Objetivo do curso
