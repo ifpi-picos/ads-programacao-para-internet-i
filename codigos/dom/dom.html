@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM - Document Object Model</title>
+  <style>
+    body {
+      max-width: 700px;
+      margin: 100px auto;
+      font-size: 2em;
+    }
+
+    select {
+      margin-right: 2rem;
+      font-size: 1em;
+    }
+
+    button {
+      padding: 5px;
+      font-size: 1em;
+    }
+
+    .msg {
+      border: 1px solid #ccc;
+      background-color: aquamarine;
+      border-radius: 10px;
+      padding: 5px;
+      margin-top: 10px;
+    }
+
+    .oculto {
+      display: none;
+    }
+
+    .flex {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .remove {
+      color: red;
+      cursor: pointer;
+    }
+
+    .accordion {
+      border-radius: 10px 10px 0 0;
+      border: 1px solid #ccc;
+      padding: 0;
+    }
+
+    h3 {
+      padding: 0 10px;
+      margin: 0;
+      background-color: #ccc;
+      border-radius: 10px 10px 0 0;
+      cursor: pointer;
+    }
+
+    h3:hover {
+      text-decoration: underline;
+    }
+
+    .exibe {
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+  <form>
+    <label for="uf">UF: </label>
+    <select name="uf" id="uf">
+      <option value="">Selecione</option>
+      <option value="PI">PI</option>
+      <option value="PE">PE</option>
+      <option value="DF">DF</option>
+    </select>
+    <label for="cidade">Cidade: </label>
+    <select name="cidade" id="cidade">
+      <option value="">Selecione</option>
+    </select>
+    <button type="button">Salvar</button>
+  </form>
+  <div class="msg oculto">
+
+  </div>
+  <hr>
+  <div class="accordion">
+    <h3>Informação</h3>
+    <div class="texto oculto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste culpa aliquid nemo veritatis
+      explicabo adipisci,
+      molestiae recusandae asperiores numquam vitae optio distinctio animi nostrum laboriosam atque quod fugiat velit
+      suscipit?</div>
+  </div>
+</body>
+<script src="dom.js"></script>
+
+</html>
