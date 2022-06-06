@@ -35,7 +35,10 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
 | 16   | 16/05/2022 | Introdução à Javascript                  | [Introdução à Javascript](https://webdev.jesielviana.com/frontend/javascript)                                                                                                                                                     |
 | 17   | 20/05/2022 | Páginas web dinâmicas com Javascript     | [Texto](https://webdev.jesielviana.com/frontend/paginas-web-dinamicas-com-javascript), [Videoaula](https://www.youtube.com/watch?v=T24q_2wuwDM)                                                                                   |
 | 18   | 23/05/2022 | Monitoria de projetos e formulários HTML | [HTML Form](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form), [Inputs](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input)                                                                            |
-| 19   | 27/05/2022 | HTTP                                     | [HTTP](https://webdev.jesielviana.com/introducao/http)                                                                                                                                                                            |
+| 19   | 27/05/2022 | Introdução ao HTTP                       | [HTTP](https://webdev.jesielviana.com/introducao/http)                                                                                                                                                                            |
+| 19   | 30/05/2022 | HTTP                                     | [HTTP](https://webdev.jesielviana.com/introducao/http)                                                                                                                                                                            |
+| 20   | 03/06/2022 | Monitoria de projetos e boas práticas    | -                                                                                                                                                                                                                                 |
+| 20   | 06/06/2022 | Introdução a API                         | [9 boas práticas para construção de API Node.js](https://jesielviana.com/blog/best-practices-for-nodejs-api)                                                                                                                      |
 
 
 ## Objetivo do curso
@@ -64,8 +67,8 @@ No processo de aprendizado dessas tecnologias, você também vai:
 1. ~~Entender a sintaxe e o papel da Javascript para o desenvolvimento web no lado cliente;~~
 1. ~~Entender o funcionamento do Document Object Model (DOM) e aprender a manipulá-lo;~~
 1. ~~Aprender a desenvolver aplicações web estáticas e responsivas com HTML e CSS;~~
-1. Aprender a desenvolver aplicações web dinâmicas e responsivas com HTML, CSS e Javascript;
-1. Ser capaz de desenvolver aplicações web seguindo os padrões de boas práticas e usabilidade da web.
+1. ~~Aprender a desenvolver aplicações web dinâmicas e responsivas com HTML, CSS e Javascript;~~
+1. ~~Ser capaz de desenvolver aplicações web seguindo os padrões de boas práticas e usabilidade da web.~~
 1. Desenvolver habilidades técnicas para construção de aplicações web conforme os requisitos do cliente;
 1. Desenvolver habilidades interpessoais para realização de trabalho em equipe e colaboração em projetos de desenvolvimento de software.
 
@@ -128,3 +131,6 @@ Jesiel Viana é um [Github Campus Advisor](https://education.github.com/teachers
 * Twitter: [https://twitter.com/jesielviana](https://twitter.com/jesielviana)
 * Github: [https://github.com/jesielviana](https://github.com/jesielviana)
 * Blog:  [https://jesielviana.com](https://www.jesielviana.com)
+
+
+Gostou deste material? me indique para o GitHub Stars (jesielviana): [https://stars.github.com/nominate](https://stars.github.com/nominate/)
