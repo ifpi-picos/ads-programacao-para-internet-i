@@ -15,30 +15,31 @@ Este material faz parte da disciplina de Programação para Internet I do Curso 
   - [Autor](#autor)
 
 ## Agenda 
-| Aula | Data       | Assunto                                  | Material                                                                  |
-| ---- | ---------- | ---------------------------------------- | ------------------------------------------------------------------------- |
-| 1    | 7/03/2022  | Apresentação do plano de ensino          | [slides](slides/1-plano-de-ensino.md)                                     |
-| 2    | 11/03/2022 | Introdução a Web                         | [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md)       |
-| 3    | 15/03/2022 | HTML                                     | [HTML](https://bit.ly/3NShfQo), [slides](slides/3-html.md)                |
-| 4    | 18/03/2022 | CSS                                      | [CSS](https://webdev.jesielviana.com/frontend/css)                        |
-| 5    | 21/03/2022 | Flexbox                                  | [CSS flexbox](https://bit.ly/3ttMeds), [CSS grid](https://bit.ly/3MEg0TC) |
-| 6    | 25/03/2022 | Acompanhamento de aprendizagem           | [modelo](https://bit.ly/39mrVI3)                                          |
-| 7    | 28/03/2022 | Git e Github                             | [slides](slides/5-git-github.md), [git e github](https://bit.ly/3mBfZ8l)  |
-| 8    | 01/04/2022 | Git e Github na prática                  | [curso grátis](https://bit.ly/39lF04v)                                    |
-| 9    | 04/04/2022 | Como a Web funciona                      | [como a web funciona?](https://bit.ly/3O7t4lD)                            |
-| 10   | 11/04/2022 | Dinâmica sobre introdução a web          | -                                                                         |
-| 11   | 18/04/2022 | Acompanhamento de aprendizagem           | -                                                                         |
-| 12   | 29/04/2022 | Web Design Responsivo                    | [Design Responsivo](https://bit.ly/3twiJYz)                               |
-| 13   | 02/05/2022 | Avaliação do porfólio                    | -                                                                         |
-| 14   | 09/05/2022 | Monitoria de projetos                    | -                                                                         |
-| 15   | 13/05/2022 | Monitoria de projetos                    | -                                                                         |
-| 16   | 16/05/2022 | Introdução à Javascript                  | [Introdução à Javascript](https://bit.ly/3tuuiiV)                         |
-| 17   | 20/05/2022 | Páginas web dinâmicas com Javascript     | [DOM](https://bit.ly/3NDSabP), [Videoaula](https://bit.ly/3trQgDs)        |
-| 18   | 23/05/2022 | Monitoria de projetos e formulários HTML | [HTML Form](https://mzl.la/3ttpbj8), [Inputs](https://mzl.la/31TIYIC)     |
-| 19   | 27/05/2022 | Introdução ao HTTP                       | [HTTP](https://webdev.jesielviana.com/introducao/http)                    |
-| 20   | 30/05/2022 | HTTP                                     | [HTTP](https://webdev.jesielviana.com/introducao/http)                    |
-| 21   | 03/06/2022 | Monitoria de projetos e boas práticas    | -                                                                         |
-| 22   | 06/06/2022 | Introdução a API                         | [Boas práticas para construção de API Node.js](https://bit.ly/3O8kh2M)    |
+| Aula | Data       | Assunto                                  | Material                                                                        |
+| ---- | ---------- | ---------------------------------------- | ------------------------------------------------------------------------------- |
+| 1    | 7/03/2022  | Apresentação do plano de ensino          | [slides](slides/1-plano-de-ensino.md)                                           |
+| 2    | 11/03/2022 | Introdução a Web                         | [web](https://bit.ly/3txtwkw), [slides](slides/2-introducao-web.md)             |
+| 3    | 15/03/2022 | HTML                                     | [HTML](https://bit.ly/3NShfQo), [slides](slides/3-html.md)                      |
+| 4    | 18/03/2022 | CSS                                      | [CSS](https://webdev.jesielviana.com/frontend/css)                              |
+| 5    | 21/03/2022 | Flexbox                                  | [CSS flexbox](https://bit.ly/3ttMeds), [CSS grid](https://bit.ly/3MEg0TC)       |
+| 6    | 25/03/2022 | Acompanhamento de aprendizagem           | [modelo](https://bit.ly/39mrVI3)                                                |
+| 7    | 28/03/2022 | Git e Github                             | [slides](slides/5-git-github.md), [git e github](https://bit.ly/3mBfZ8l)        |
+| 8    | 01/04/2022 | Git e Github na prática                  | [curso grátis](https://bit.ly/39lF04v)                                          |
+| 9    | 04/04/2022 | Como a Web funciona                      | [como a web funciona?](https://bit.ly/3O7t4lD)                                  |
+| 10   | 11/04/2022 | Dinâmica sobre introdução a web          | -                                                                               |
+| 11   | 18/04/2022 | Acompanhamento de aprendizagem           | -                                                                               |
+| 12   | 29/04/2022 | Web Design Responsivo                    | [Design Responsivo](https://bit.ly/3twiJYz)                                     |
+| 13   | 02/05/2022 | Avaliação do porfólio                    | -                                                                               |
+| 14   | 09/05/2022 | Monitoria de projetos                    | -                                                                               |
+| 15   | 13/05/2022 | Monitoria de projetos                    | -                                                                               |
+| 16   | 16/05/2022 | Introdução à Javascript                  | [Introdução à Javascript](https://bit.ly/3tuuiiV)                               |
+| 17   | 20/05/2022 | Páginas web dinâmicas com Javascript     | [DOM](https://bit.ly/3NDSabP), [Videoaula](https://bit.ly/3trQgDs)              |
+| 18   | 23/05/2022 | Monitoria de projetos e formulários HTML | [HTML Form](https://mzl.la/3ttpbj8), [Inputs](https://mzl.la/31TIYIC)           |
+| 19   | 27/05/2022 | Introdução ao HTTP                       | [HTTP](https://webdev.jesielviana.com/introducao/http)                          |
+| 20   | 30/05/2022 | HTTP                                     | [HTTP](https://webdev.jesielviana.com/introducao/http)                          |
+| 21   | 03/06/2022 | Monitoria de projetos e boas práticas    | -                                                                               |
+| 22   | 06/06/2022 | Introdução a API                         | [Boas práticas para construção de API Node.js](https://bit.ly/3O8kh2M)          |
+| 23   | 10/06/2022 | Consumindo APIs                          | [Back-end API](https://bit.ly/3NJ8HeS), [Front-end API](https://bit.ly/3xGKX5e) |
 
 
 ## Objetivo do curso
